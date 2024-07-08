@@ -41,7 +41,7 @@
     "AUTO_READ_STATUS": {
       "description": "Put true if you want bot to view status",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_READ": {
       "description": "Put true if you want bot to read message",
